@@ -7,6 +7,7 @@ Data Analyst with more than 1 year of experience in interpreting and analyzing d
 
 [![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu-devireddi)](https://github.com/vishnu-devireddi/github-readme-stats)
 
+![](https://komarev.com/ghpvc/?username=vishnu-devireddi)
 
 <!---
 vishnu-devireddi/vishnu-devireddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
