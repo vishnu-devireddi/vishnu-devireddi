@@ -1,4 +1,4 @@
-# About me
+# Author
 
 I'm Vishnu Vikas Devireddi, Graduate Student in Data Science at the University of Maryland, Baltimore County.
 
