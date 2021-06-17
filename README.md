@@ -7,7 +7,7 @@ Data Analyst with more than 1 year of experience in interpreting and analyzing d
 
 
 
-[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu-devireddi)](https://github.com/vishnu-devireddi/github-readme-stats)
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vishnu-devireddishow_icons=true&theme=dark)](https://github.com/vishnu-devireddi/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=vishnu-devireddi)
 
