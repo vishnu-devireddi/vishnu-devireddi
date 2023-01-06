@@ -1,7 +1,5 @@
 # Bio
 
-I'm Vishnu Vikas Devireddi, Graduate Student in Data Science at the University of Maryland, Baltimore County.
-
 Data Engineer/Analyst skilled in interpreting and analyzing data for driving business solutions. Creative in finding solutions to problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
 
 
