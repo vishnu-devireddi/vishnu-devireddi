@@ -1,6 +1,6 @@
 # Bio
 
-Data Engineer/Analyst skilled in interpreting and analyzing data for driving business solutions. Creative in finding solutions to problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
+Data Scientist skilled in interpreting and analyzing data in building machine learning solutions for the business outcomes. Creative in finding solutions to real-world problems and determining modifications for optimal use of organizational data. Organized and timely in providing staff, departmental members, and executive management with reports on specific data findings and their impact on organizational growth and success.
 
 
 
