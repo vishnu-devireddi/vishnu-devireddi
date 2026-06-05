@@ -1,12 +1,12 @@
 # Hey, I'm Vishnu 👋
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/vdevireddi">
-    <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/vdevireddi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
 
   <a href="mailto:vishnu.devireddi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-gray?style=flat&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
