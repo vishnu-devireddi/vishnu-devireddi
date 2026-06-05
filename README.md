@@ -73,23 +73,6 @@ AI/ML Engineer with a foundation in Analytics and Data Engineering. I build inte
 ![DocumentDB](https://img.shields.io/badge/AWS_DocumentDB-2E73B8?style=for-the-badge)
 ![Neo4j](https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white)
 
----
-
-## 📫 Connect
-
-<p align="left">
-  <a href="https://github.com/vishnu-devireddi" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/vdevireddi" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <a href="mailto:vishnu.devireddi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 ---
 
