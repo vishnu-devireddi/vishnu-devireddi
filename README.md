@@ -1,5 +1,15 @@
 # Hey, I'm Vishnu 👋
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/vdevireddi">
+    <img src="https://img.shields.io/badge/LinkedIn-gray?style=flat&logo=linkedin" />
+  </a>
+
+  <a href="mailto:vishnu.devireddi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-gray?style=flat&logo=gmail" />
+  </a>
+</p>
+
 🤖 AI/ML Engineer | 📊 Data Science & Analytics | ⚙️ Data Engineer
 
 AI/ML Engineer with a foundation in Analytics and Data Engineering. I build intelligent systems that connect machine learning, data, and engineering into production-grade products—ranging from AI agents and predictive models to large-scale data platforms and causal inference systems focused on real business impact.
