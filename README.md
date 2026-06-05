@@ -1,14 +1,14 @@
-# Hi, I'm Vishnu Devireddi 👋
+# Hi, I'm Vishnu 👋
 
-🤖 AI/ML Engineer | 📊 Analytics Enthusiast | ⚙️ Data Engineer
+🤖 AI/ML Engineer | 📊 Data Science & Analytics | ⚙️ Data Engineer
 
-> AI/ML Engineer with a foundation in Analytics and Data Engineering. I build intelligent systems that connect machine learning, data, and engineering into production-grade products—ranging from AI agents and predictive models to large-scale data platforms and causal inference systems focused on real business impact.
+AI/ML Engineer with a foundation in Analytics and Data Engineering. I build intelligent systems that connect machine learning, data, and engineering into production-grade products—ranging from AI agents and predictive models to large-scale data platforms and causal inference systems focused on real business impact.
 
 ---
 
 ## ⚡ A Bit About Me
 
-- 🧠 Deep interest in building systems that learn, reason, and adapt from data  
+- 🧠 Interested in building systems that learn, reason, and adapt from data  
 - 📊 Strong focus on extracting signal from complex datasets to drive decision-making  
 - 🤖 Passionate about LLMs, AI agents, and generative systems that solve real problems  
 - 🔍 Naturally drawn to causal thinking, experimentation, and understanding “why” behind outcomes  
@@ -67,8 +67,19 @@
 
 ## 📫 Connect
 
-- LinkedIn: [Add your link]
-- Email: [Add your email]
+<p align="left">
+  <a href="https://github.com/vishnu-devireddi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/vdevireddi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="mailto:vishnu.devireddi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
